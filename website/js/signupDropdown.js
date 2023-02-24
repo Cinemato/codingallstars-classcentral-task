@@ -36,7 +36,7 @@ signupTrigger.addEventListener('click', (event) => {
 });
 
 document.addEventListener('click', (event) => {
-    if(event.target.closest("#signup-clickaway")) return;
+    if(event.target.closest("#signup-clickaway") || event.target.closest("#signup-dropdown")) return;
     
     closeSignupDropdown();
 })
