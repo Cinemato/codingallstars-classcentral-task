@@ -4,7 +4,7 @@ I have written and developed this project to apply for a job posting as a Junior
 ### [Live Version! (Netlify)](https://gorgeous-lollipop-371737.netlify.app/)
 
 ### Technologies:
-HTML/CSS/JavaScript for design
+HTML/CSS/JavaScript for design<br>
 PHP for translation script
 
 ### Project Description:
