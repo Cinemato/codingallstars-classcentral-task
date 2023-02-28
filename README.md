@@ -8,4 +8,4 @@ HTML/CSS/JavaScript for design<br>
 PHP for translation script
 
 ### Project Description:
-The task required me to clone the website known as ClassCentral. Then, I must translate all of the scraped pages (one-level deep) into Hindi and have the translations hard-coded into the code. I must also make sure that all of the menues in the home page work as intended for both mobile and desktop screens.
+The task required me to clone the website known as ClassCentral. Then, I must translate all of the scraped pages (one-level deep) into Hindi and have the translations hard-coded into the code. I must also make sure that all of the menus in the home page work as intended for both mobile and desktop screens.
